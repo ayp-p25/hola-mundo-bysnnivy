@@ -2,14 +2,8 @@
 Inserta el encabezado aquí y escribe tu código abajo
 """
 
-# Declaraciones
-CONSTANTE = valor
-
 # Entradas
-entrada = input()
-
-# Proceso
-
+nombre = input("Ingrese su usuario: ")
 
 # Salidas
-print(salida)
+print("Hola, ", nombre)
